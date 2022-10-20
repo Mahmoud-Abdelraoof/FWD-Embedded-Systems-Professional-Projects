@@ -1,0 +1,8 @@
+﻿  app.c
+D:\Programming\Embedded_Systems\Egypt FWD\FWD_C Project_2\07-Payment Application\Payment Application\app.c(65,42): warning C4133: 'function': incompatible types - from 'ST_cardData_t *' to 'ST_terminalData_t *'
+D:\Programming\Embedded_Systems\Egypt FWD\FWD_C Project_2\07-Payment Application\Payment Application\app.c(13,19): warning C4101: 'L_strTransData': unreferenced local variable
+  card.c
+  server.c
+  terminal.c
+  Generating Code...
+  Payment Application.vcxproj -> D:\Programming\Embedded_Systems\Egypt FWD\FWD_C Project_2\07-Payment Application\x64\Debug\Payment Application.exe
