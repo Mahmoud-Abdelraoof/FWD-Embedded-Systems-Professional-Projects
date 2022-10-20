@@ -1,0 +1,1 @@
+HAL/LED.o HAL/LED.o: ../HAL/LED.c
